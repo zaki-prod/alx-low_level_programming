@@ -9,7 +9,7 @@ void close_file(int fd);
  * create_buffer - Creates a buffer of 1024 bytes.
  * @file: The file name that the buffer is for.
  *
- * Return: A pointer to the buffer. 
+ * Return: A pointer to the buffer.
  */
 char *create_buffer(char *file)
 {
