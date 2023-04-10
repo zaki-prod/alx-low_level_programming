@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * read_textfile - Display the contents of a text file on the screen.
+ * read_textfiles - Display the contents of a text file on the screen.
  * @filename: The name of the text file to read.
  * @letters: The number of letters to read from the file.
  * Return: w - The number of bytes read and printed from the file.
